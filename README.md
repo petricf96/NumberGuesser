@@ -1,1 +1,3 @@
 # NumberGuesser
+
+Guessing number game
